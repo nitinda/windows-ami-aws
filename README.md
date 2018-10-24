@@ -1,1 +1,1 @@
-"# windows-ami-aws" 
+# windows-ami-aws
